@@ -45,8 +45,16 @@
         margin-top: 30px;
     }
 
-    nav {
-        text-align: right;
-    }
+    #missing {
+        .desktop {
+          display:block;
+        }
+        .mobile {
+          display: none;
+        }
+        .tablet {
+          display: none;
+        }
+      }
 
      /* ---End of General Styles--- */

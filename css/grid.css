@@ -150,6 +150,10 @@ html {
   display: none;
 }
 
+#img {
+  display: none;
+}
+
 
 /* 3. ---Tablet Library Grid Styles--- */
 
@@ -350,6 +354,10 @@ html {
   }
   
   .desktop {
+    display: none;
+  }
+
+  #img {
     display: none;
   }
 
@@ -556,6 +564,9 @@ html {
     display: block;
   }
 
+  #img {
+    display: block;
+  }
 }
 
 /* 5. ---X-Large Desktop Library Grid Styles--- */
@@ -759,4 +770,7 @@ html {
     display: block;
   }
 
+  #img {
+    display: block;
+  }
 }
