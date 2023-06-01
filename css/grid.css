@@ -36,6 +36,10 @@ html {
    margin-bottom:10px;
  }
 
+ nav p {
+  text-align: right;
+ }
+
 /* 2. ---Mobile Library Grid Styles--- */
 
 /*---We do not use media queries for mobile or Justin will find us...*/
